@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+    font-family: 'Ubuntu', cursive;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+    font-family: 'Ubuntu', cursive;
+}
+.navbar li{
+    list-style-type: none;
+    margin: 0 12px;
+}
+.topleft{
+  width: 50%;
+  
+}
+.topright{
+    width: 50%;
+    
+}
+.section1{
+    max-height: 100vh;
+    
+}
+.section1 h1{
+  font-size: 2rem;
+}
+.logo{
+    font-size: 1.3rem;
+}
+.image3{
+    width: 150px;
+    height: 100px;
+}
+.text-center{
+    text-align: center;
+    color: rgb(12, 85, 51); 
+}
+.text-center p{
+    color: rgb(240, 255, 251);
+}
+.topright .image2{
+    width: 300px;
+  }
+  .section2{
+      padding-left: 63px;
+      padding-right: 63px;
+  }
+  .section2 h1{
+      font-size: 2rem;
+  }
+  .section2 p{
+      padding: 0 8vw;
+      text-align: center;
+  }
+  .box{
+      padding: 8px 0;
+      margin: 12px 22px;
+      min-width: 22vw;
+      border: 2px solid rgb(55, 176, 138);
+      border-radius: 8px;
+      text-align: center;
+  }
+  .heighlighted{
+      font-size: 1.5rem;
+      font-weight: bolder;
+  }
+  .box ul{
+      list-style: none;
+  }
+  .box ul li{
+      margin:12px 2px;
+  }
+  .imadog{
+   width: 276px;
+  }
+  .imabird{
+      width: 276px;
+  }
+  .imaforest{
+      width: 200px;
+     
+  }
+  .section3{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+.section3 h1{
+    font-size: 2rem;
+}
+.section3 p{
+    padding: 0 8vw;
+    text-align: center;
+}
+  .box1{
+    padding: 7px 7px;
+    margin: 50px 22px;
+    min-width: 22vw;
+    border: 2px solid rgb(55, 176, 138);
+    border-radius: 8px;
+    text-align: center;
+}
+.heighlighted{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.box1 ul{
+    list-style: none;
+}
+.box1 ul li{
+    margin:12px 2px;
+}
+footer{
+    padding: 23px;
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 12px;
+    padding: 12px 12px;
+}
+
+
